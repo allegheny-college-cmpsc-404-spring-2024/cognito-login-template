@@ -1,0 +1,18 @@
+html {
+  font-size: 15pt;
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#container {
+  margin: 0 auto;
+  width: 95vw;
+}
+
+form {
+  transform: translateY(25%);
+  margin: 0 auto;
+  width: 50vw;
+}
